@@ -1,7 +1,7 @@
 # How a Large Language Model Is Built and What It Costs
 An infographic that maps the **training pipeline of generative AI large language models** and quantifies the **resources** each model consumes: datasets, compute, energy, water, time, and money.
  
-🔗 **Live infographic:** View it here](https://nicoolesy.github.io/large-language-model-details/index.html)
+🔗 **Live infographic:** [View it here](https://nicoolesy.github.io/large-language-model-details/index.html)
 
 ## 1. Summary of Main Points
  
